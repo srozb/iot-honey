@@ -1,4 +1,6 @@
 mirai.log
 config.py
 *.pyc
+*.db
+*.sqlite
 __pycache__/*
