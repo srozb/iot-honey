@@ -1,0 +1,4 @@
+twisted>=16.0
+python-geoip
+python-geoip-geolite2
+dataset>=0.7.1
